@@ -143,7 +143,8 @@ CKEDITOR_CONFIGS = {
 }
 
 #email config 
-EMAIL_HOST = 'sandbox.smtp.mailtrap.io'
-EMAIL_HOST_USER = '5dcecc6efeb28e'
-EMAIL_HOST_PASSWORD = 'c29530b70fd119'
-EMAIL_PORT = '2525'
+EMAIL_HOST = "smtp.gmail.com"
+EMAIL_HOST_USER = "cesarpruebas01@gmail.com"
+EMAIL_HOST_PASSWORD = "gnictnjjnykbsblc"
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
